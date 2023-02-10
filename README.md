@@ -1,1 +1,1 @@
-# NanoGPT_Implementation
+# NanoGPT Implementation
